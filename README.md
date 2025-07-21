@@ -50,4 +50,4 @@ A real-time, intelligent crypto trading assistant that uses **Reddit sentiment a
 
 1. **Install dependencies**
    ```bash
- #  pip install -r requirements.txt
+   pip install -r requirements.txt
