@@ -2,7 +2,6 @@ Absolutely! Here's your complete `README.md` file with everything — project ov
 
 ---
 
-````markdown
 # 🧠 Crypto Trading Companion
 
 A smart crypto analysis tool that combines real-time sentiment from Reddit with technical indicators like RSI, MACD, and Bollinger Bands to help make better trading decisions.
@@ -101,13 +100,6 @@ __pycache__/
 *.log
 .DS_Store
 ```
-
----
-
-## 📷 Screenshots
-
-
-
 ---
 
 ## 👨‍💻 Author
