@@ -1,7 +1,3 @@
-Absolutely! Here's your complete `README.md` file with everything — project overview, features, technologies, setup instructions, author info, license, and even a template for `.env` and `requirements.txt` — all bundled in **one clean markdown document**:
-
----
-
 # 🧠 Crypto Trading Companion
 
 A smart crypto analysis tool that combines real-time sentiment from Reddit with technical indicators like RSI, MACD, and Bollinger Bands to help make better trading decisions.
