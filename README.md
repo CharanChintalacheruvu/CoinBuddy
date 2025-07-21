@@ -112,6 +112,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 > 🔒 Your API credentials are sensitive — always use `.env` files and never share them publicly!
-
-```
-
